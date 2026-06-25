@@ -17,12 +17,12 @@ Here are some of the problem domains and problems that can get you started think
 ## Instructions
 
 Fill in the following table (substitute suggested problem domains for your own ones if needed):
-
+#my answer
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | How can you use data to improve education process for children in schools?|students data about their awareness about digital and AI use for study |storing in structured table form |this will tell  how much students in school are currently comfortable with the use of ai and its tools in study so  that we can integrate ai with traditional practice  |
+| Vaccination |How can you use data to control vaccination during the pandemic? | Demographic data of patients and vaccine given of particular region|as it is sensitive structured data we need to store in high sceurity database  |the region with highly vaccinated region  must hace low patients making correlation with that vaccine campaign can be boosted in the region with low vaccinated population region |
+
 
 ## Rubric
 
